@@ -78,3 +78,45 @@ Evaluates crew response and training quality.
 
 ## 🏗️ System Architecture Overview
 
+Simulated IoT Sensors
+↓
+Incident Detection Engine
+↓
+AI Safety Guidance (Offline)
+↓
+3D Scenario Generator → Three.js Viewer
+↓
+Performance Dashboard → User Analytics
+
+---
+
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React.js / JavaScript  
+- Three.js (3D rendering)  
+- TailwindCSS (UI)
+
+### Backend
+- Python or Node.js  
+- Rule-based detection engine  
+- Offline NLP inference
+
+### Data
+- Sensor event logs  
+- 3D models  
+- Performance and training history  
+
+---
+
+## 🚀 Features
+
+- ✔ Real-time sensor-based incident detection  
+- ✔ Offline-capable AI emergency assistant  
+- ✔ Auto-generated 3D training scenarios  
+- ✔ Interactive WebGL simulation viewer  
+- ✔ Performance analysis and scoring  
+- ✔ Modular design for integration and extension  
+
+
