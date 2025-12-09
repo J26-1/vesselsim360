@@ -79,13 +79,13 @@ Evaluates crew response and training quality.
 ## 🏗️ System Architecture Overview
 
 Simulated IoT Sensors
-↓
+          ↓
 Incident Detection Engine
-↓
+          ↓
 AI Safety Guidance (Offline)
-↓
+          ↓
 3D Scenario Generator → Three.js Viewer
-↓
+          ↓
 Performance Dashboard → User Analytics
 
 ---
